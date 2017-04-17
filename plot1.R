@@ -14,7 +14,7 @@ barplot(
   names.arg=aggTotals$year,
   xlab="Year",
   ylab="PM2.5 Emissions (10^6 Tons)",
-  main="Tota PM2.5 Emissions From All US Sources"
+  main="Total PM2.5 Emissions From All US Sources"
 )
 
 dev.off()
